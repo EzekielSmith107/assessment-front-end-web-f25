@@ -36,3 +36,12 @@ input {
 img {
 	max-width: 300px;
 }
+
+.pokeballs {
+	display: inline-block;
+	color: yellow;
+	border: 2px;
+	border-style: solid;
+	background-color: black;
+	width: 100px;
+}
